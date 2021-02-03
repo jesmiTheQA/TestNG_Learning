@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite"  >
+<test name="testGuru">
+<classes>
+<class name="TestNG_Package.Using_invocationCount"/>
+<class name="TestNG_Package.Using_Assertions"> </class>
+</classes>
+</test>
+</suite>
